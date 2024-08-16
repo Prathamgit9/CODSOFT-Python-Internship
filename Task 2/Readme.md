@@ -20,3 +20,9 @@ To run this calculator, you'll need Python installed on your system. Follow the 
    ```bash
    git clone https://github.com/your-username/advanced-calculator.git
    cd advanced-calculator
+
+2. **Run the script using Python.**
+   
+   ```bash
+   python calculator.py
+   Make sure you have tkinter installed. It usually comes pre-installed with Python.
