@@ -25,4 +25,5 @@ To run this calculator, you'll need Python installed on your system. Follow the 
    
    ```bash
    python calculator.py
-   Make sure you have tkinter installed. It usually comes pre-installed with Python.
+
+Make sure you have tkinter installed. It usually comes pre-installed with Python.
